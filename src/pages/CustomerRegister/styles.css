@@ -1,0 +1,10 @@
+#page-registercustomer-form {
+  width: 100vw;
+  height: 100vh;
+}
+
+@media (min-width: 700px) {
+  #page-registercustomer-form {
+    max-width: 100vw;
+  }
+}
